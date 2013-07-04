@@ -6,7 +6,6 @@ Downloads a given playlist from 8tracks to your computer
 Inspired and partially based on the php 8tracks downloader created by navinpai and mundofr
 https://github.com/mundofr/8Tracks-Downloader
 
-
 Usage
 =====
 usage is pretty basic, script is run from command line arguments
