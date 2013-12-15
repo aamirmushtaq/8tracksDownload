@@ -6,6 +6,13 @@ Downloads a given playlist from 8tracks to your computer
 Inspired and partially based on the php 8tracks downloader created by navinpai and mundofr
 https://github.com/mundofr/8Tracks-Downloader
 
+For UBUNTU Setup:
+=================
+I installed LAME FAAD and downloaded the id3-tagger.py I have it in the repo itself. I moved it from the folder to the directory containing the downloader.py. Also rename the file from id3-tagger.py to id3.py 
+perform chmod 777 on the repository directory. 
+usage is given in the usage file. Remember to change the download path as per your needs.
+
+
 Usage
 =====
 usage is pretty basic, script is run from command line arguments
